@@ -2,10 +2,6 @@
   <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/header_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian data scientist 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Sabrina</h1>
-<h3 align="center">A data scientist passionate about statistics</h3>
-
 - 🌱 I’m currently learning **about my technical skills in data science, data engineering, business intelligence**
 - 👯 I’m looking to collaborate on **Data Science and AI Ethics Projects**
 - 👩🏻‍💻 All of my projects are available at [https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
