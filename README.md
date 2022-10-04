@@ -8,7 +8,7 @@
 - 💬 Ask me about **data science, AI Ethics, tech, algoritms, career**
 - 📫 How to reach me **sabrinalgerman@gmail.com**
 - 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
-- ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling and 🧘🏻‍♀️Yoga**
+- ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling, Karate and 🧘🏻‍♀️Yoga**
 
 </p>
 
@@ -33,9 +33,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinalameiras&show_icons=true&locale=en&layout=compact" alt="sabrinalameiras" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinalameiras&" alt="sabrinalameiras" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinalameiras&show_icons=true&locale=en" alt="sabrinalameiras" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinalameiras&" alt="sabrinalameiras" /></p>
 
 <!--
 **SabrinaLameiras/SabrinaLameiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
