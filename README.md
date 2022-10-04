@@ -8,7 +8,7 @@
 - 💬 Ask me about **data science, AI Ethics, tech, algoritms, career**
 - 📫 How to reach me **sabrinalgerman@gmail.com**
 - 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
-- ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling, Karate and 🧘🏻‍♀️Yoga**
+- ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling and 🧘🏻‍♀️Yoga**
 
 </p>
 
