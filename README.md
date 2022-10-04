@@ -2,11 +2,14 @@
   <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/header_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian data scientist 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-- 🌱 I’m currently learning **about my technical skills in data science, data engineering, business intelligence**
-- 👯 I’m looking to collaborate on **Data Science and AI Ethics Projects**
-- 👩🏻‍💻 All of my projects are available at [https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+💁🏻‍♀️ I'm currently a independent data scientist and tech content creator.
+
+- 🔭 I’m currently working on [Mapfre S/A](https://www.mapfre.com) and [Consultoria](https://etheriumtechconsulting.com)
+- 🌱 I'm currently perfecting and developing my skills in about in  **data science, data engineering and business intelligence**
+- 👯 I’m looking to collaborate on **data Science, data governance, business intelligence and AI Ethics Projects**
+- 👩🏻‍💻 Some of my projects are available at [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 - 📝 I regularly write articles on [https://medium.com/@sabrinalameiras](https://medium.com/@sabrinalameiras)
-- 💬 Ask me about **data science, AI Ethics, tech, algoritms, career; i am to help**
+- 💬 Ask me about **data science, data governance, AI Ethics, tech, algoritms, career; i am to help**
 - 📫 How to reach me **sabrinalgerman@gmail.com**
 - 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
 - ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling, Karate and 🧘🏻‍♀️Yoga**
