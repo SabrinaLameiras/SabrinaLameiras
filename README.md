@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabrina</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+<h3 align="center">A data scientist passionate about statistics</h3>
 
 - 🌱 I’m currently learning **about my technical skills in data science, data engineering, business intelligence**
 - 👯 I’m looking to collaborate on **Data Science and AI Ethics Projects**
