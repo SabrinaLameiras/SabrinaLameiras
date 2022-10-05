@@ -4,7 +4,6 @@
 
 💁🏻‍♀️ I'm currently a independent data scientist and tech content creator.
 
-- 🔭 I’m currently working on [Mapfre S/A](https://www.mapfre.com) and [Consultoria](https://etheriumtechconsulting.com)
 - 🌱 I'm currently perfecting and developing my skills in about in  **data science, data engineering and business intelligence**
 - 👯 I’m looking to collaborate on **data Science, data governance, business intelligence and AI Ethics Projects**
 - 👩🏻‍💻 Some of my projects are available at [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
