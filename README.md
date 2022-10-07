@@ -44,7 +44,7 @@
 <a href="https://instagram.com/sabrinalameiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabrinalameiras" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sabrinalameiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sabrinalameiras" height="30" width="40" /></a>
 
-<p align="left"> <a href="https://twitter.com/sabrinalameiras" target="blank"><img src="https://img.shields.io/twitter/follow/sabrinalameiras?logo=twitter&style=for-the-badge" alt="sabrinalameiras" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sabrinalgerman" target="blank"><img src="https://img.shields.io/twitter/follow/sabrinalgerman?logo=twitter&style=for-the-badge" alt="sabrinalgerman" /></a> </p>
 
 <!--
 How to make the bio gif ?
