@@ -11,12 +11,12 @@
 - 💬 Ask me about **data science, data governance, AI Ethics, tech, algoritms, career; i am to help**
 - 📫 How to reach me **sabrinalgerman@gmail.com**
 - 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
-- ⚡ Fun fact **I ❤️ sports like karate - faixa marrom 🥋,🏃Running, 🚴Cycling and 🧘🏻‍♀️Yoga**
+- ⚡ Fun fact **I ❤️ sports like karate - brown belt 🥋 and 🧘🏻‍♀️Yoga**
 
 #### 📕 Check out my latest articles </h3>
 <!-- BLOG-POST-LIST:START -->
-- [O Papel da Governança de Dados na Democratização dos Dados](https://medium.com/@sabrinalgerman/o-papel-da-governan%C3%A7a-de-dados-na-democratiza%C3%A7%C3%A3o-dos-dados-e35983cfe018)
-- [O Profissional do Futuro](https://www.linkedin.com/feed/update/urn:li:ugcPost:6813256511712829440?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6813256511712829440%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Role of Data Governance in Data Democratization](https://medium.com/@sabrinalgerman/o-papel-da-governan%C3%A7a-de-dados-na-democratiza%C3%A7%C3%A3o-dos-dados-e35983cfe018)
+- [The Professional of the Future](https://www.linkedin.com/feed/update/urn:li:ugcPost:6813256511712829440?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6813256511712829440%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 <details>
   <summary><b>🛠️ Some languages and tools I use</b></summary>
