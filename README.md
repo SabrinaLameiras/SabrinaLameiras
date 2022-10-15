@@ -11,7 +11,7 @@
 - 💬 Ask me about **data science, data governance, AI Ethics, tech, algoritms, career; i am to help**
 - 📫 How to reach me **sabrinalgerman@gmail.com**
 - 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
-- ⚡ Fun fact **I ❤️ sports like 🏃Running, 🚴Cycling, Karate and 🧘🏻‍♀️Yoga**
+- ⚡ Fun fact **I ❤️ sports like karate - faixa marrom 🥋,🏃Running, 🚴Cycling and 🧘🏻‍♀️Yoga**
 
 #### 📕 Check out my latest articles </h3>
 <!-- BLOG-POST-LIST:START -->
