@@ -2,7 +2,7 @@
   <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/reader_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian data scientist 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-💁🏻‍♀️ I'm currently a independent data scientist and tech content creator.
+✨ I'm currently a independent data scientist and tech content creator.
 
 - 🌱 I'm currently perfecting and developing my skills in about in  **data science, data engineering and business intelligence**
 - 👯 I’m looking to collaborate on **data Science, data governance, business intelligence and AI Ethics Projects**
