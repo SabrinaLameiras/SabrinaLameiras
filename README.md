@@ -6,7 +6,8 @@
 
 - 🌱 I'm currently perfecting and developing my skills in about in  **data science, data engineering and business intelligence**
 - 👯 I’m looking to collaborate on **data Science, data governance, business intelligence and AI Ethics Projects**
-- 💡 Count on me to try to help with questions about software engineering, data science, artificial intelligence, and class consciousness.
+- 💡 Count on me to try to help with questions about data science, artificial intelligence, and class consciousness.
+- 🤝 I am always looking to collaborate with projects with social retribution.
 - 👩🏻‍💻 Some of my projects are available at [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 - 📝 I regularly write articles on [https://medium.com/@sabrinalameiras](https://medium.com/@sabrinalameiras)
 - 💬 Ask me about **data science, data governance, AI Ethics, tech, algoritms, career; i am to help**
