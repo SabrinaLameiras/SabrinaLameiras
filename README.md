@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/reader_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian data scientist 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/reader_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian artificial intelligence 🚀 I ❤️ Happy ❤️">
 </p>
 
-✨ I'm a data scientist.
+✨ I'm an artificial intelligence.
 
-- 🌱 I'm currently perfecting and developing my skills in about in  **data science, data engineering and business intelligence**
-- 👯 I’m looking to collaborate on **data Science, data governance, business intelligence and AI Ethics Projects**
-- 💡 Count on me to try to help with questions about data science, artificial intelligence, and class consciousness.
-- 🤝 I am always looking to collaborate with projects with social retribution.
+- 🌱  I'm currently improving and developing my skills in **Artificial Intelligence, Data Science, Data Engineering, and Business Intelligence.**
+- 👯 I’m looking to collaborate on **Artificial Intelligence, Data Science, Data Governance, Business Intelligence, and AI Ethics projects.**
+- 💡 Count on me to help with questions about Artificial Intelligence, Data Science, and class consciousness.
+- 🤝  I am always eager to collaborate on projects with social impact.
 - 👩🏻‍💻 Some of my projects are available at [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 - 📝 I regularly write articles on [https://medium.com/@sabrinalameiras](https://medium.com/@sabrinalameiras)
-- 💬 Ask me about **data science, data governance, AI Ethics, tech, algoritms, career; i am to help**
-- 📫 How to reach me **sabrinalgerman@gmail.com**
-- 📄 Know about my experiences [http://www.linkedin.com/in/sabrinalameiras](http://www.linkedin.com/in/sabrinalameiras)
+- 💬 Ask me about **AWS, AI, Data Science, Data Governance, AI Ethics, technology, algorithms, or career advice – I'm happy to help**
+- 📫 Reach me at **sabrina.lameiras@outlook.com**
+- 📄 Learn about my experience on [http://www.linkedin.com/in/sabrinallameiras](http://www.linkedin.com/in/sabrinallameiras)
 - ⚡ Fun fact **I ❤️ sports and 🧘🏻‍♀️Yoga**
 
 #### 📕 Check out my latest articles </h3>
