@@ -2,7 +2,7 @@
   <img src="https://github.com/sabrinalameiras/sabrinalameiras/raw/main/assets/reader_github.gif" alt="Hi, I'm Sabrina 👋 I'm a 🚀 brazilian artificial intelligence 🚀 I ❤️ Happy ❤️">
 </p>
 
-✨ I'm an an artificial intelligence engineer.
+✨ I'm an artificial intelligence engineer.
 
 - 🌱  I'm currently improving and developing my skills in **Artificial Intelligence, Data Science, Data Engineering, and Business Intelligence.**
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Data Science, Data Governance, Business Intelligence, and AI Ethics projects.**
