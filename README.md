@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Data Science, Data Governance, Business Intelligence, and AI Ethics projects.**
 - 💡 Count on me to help with questions about Artificial Intelligence, Data Science, and class consciousness.
 - 🤝  I am always eager to collaborate on projects with social impact.
-- 👩🏻‍💻 Some of my projects are available at [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiOWUzZmVjZDktNTQ2MC00ZjU4LWFlZmMtZWI5YjdlZDcwZDg5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+- 👩🏻‍💻 Some of my projects are available at [Portfólio](https://drive.google.com/file/d/10GTfz37P6MGSRADtsXUOgnPxz6bYPNDY/view?usp=drive_link)
 - 📝 I regularly write articles on [https://medium.com/@sabrinalameiras](https://medium.com/@sabrinalameiras)
 - 💬 Ask me about **AWS, AI, Data Science, Data Governance, AI Ethics, technology, algorithms, or career advice – I'm happy to help**
 - 📫 Reach me at **sabrina.lameiras@outlook.com**
